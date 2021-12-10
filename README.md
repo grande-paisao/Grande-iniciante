@@ -4,6 +4,7 @@ vari="Hello word"
 print(vari)
 
 #2. Receber dois números do usuario e somar
+
 #3. Receber dois números do usuario e multiplicar
 print(5+8)
 nu1=5
